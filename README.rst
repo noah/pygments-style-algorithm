@@ -25,6 +25,7 @@ Using in LaTeX documents
 ========================
 
 ::
+
     \usepackage{minted}
     \usemintedstyle{algorithm}
 
