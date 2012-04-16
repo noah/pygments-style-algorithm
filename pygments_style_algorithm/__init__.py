@@ -26,7 +26,7 @@ class AlgorithmStyle(Style):
 
     styles = {
         Whitespace:                "#000",
-        Comment:                   "italic #333",
+        Comment:                   "noitalic #333",
         Comment.Preproc:           "noitalic #000",
 
         #Keyword:                   "bold #AA22FF",
