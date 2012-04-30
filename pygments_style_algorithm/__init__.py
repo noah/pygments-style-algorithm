@@ -41,7 +41,7 @@ class AlgorithmStyle(Style):
         Name.Function:             "bold #000",
         Name.Class:                "bold #0000FF",
         Name.Namespace:            "bold #0000FF",
-        Name.Exception:            "bold #D2413A",
+        Name.Exception:            "bold #000",
         Name.Variable:             "#19177C",
         Name.Constant:             "#880000",
         Name.Label:                "#A0A000",
